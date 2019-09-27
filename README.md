@@ -24,7 +24,7 @@ Create an ASP.NET Core application to see a list of registered persons and their
 A global admin can see everything.
 Each user can view their reservations.
 
-You must to transform the ConsoleApp to a repository or a micro-service.
+You must to transform the ConsoleApp to a repository library or various micro-services/apis.
 You can use a server-side and client-side apps with Angular, ReactJs, VueJs or Blazor or a classic architecture (JavaScript, jQuery, Ajax, ...) or a micro-services architecture.
 
 > Be simple.
