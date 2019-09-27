@@ -18,14 +18,14 @@ You need to develop a web application to manage room reservations'. It's necessa
 1. Each person have at least one reservation.
 1. Run `Cegid.TechnicalTests.ConsoleApp`.
 
-## Web Application
+## Web Application / Micro-service
 
 Create an ASP.NET Core application to see a list of registered persons and their reservations.
 A global admin can see everything.
-Each use can view their reservations.
+Each user can view their reservations.
 
-You must to transform the ConsoleApp to a Repository.
-You can use a server-side and client-side apps with Angular, ReactJs, VueJs or Blazor or a classic architecture (JavaScript, jQuery, Ajax, ...).
+You must to transform the ConsoleApp to a repository or a micro-service.
+You can use a server-side and client-side apps with Angular, ReactJs, VueJs or Blazor or a classic architecture (JavaScript, jQuery, Ajax, ...) or a micro-services architecture.
 
 > Be simple.
 
